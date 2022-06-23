@@ -1,0 +1,23 @@
+.header {
+  max-width: 1510px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  height: 200px;
+  position: fixed;
+}
+
+.header__logo {
+  width: 10%;
+  height: 50px;
+}
+
+#quest {
+  width: 90%;
+  height: 50px;
+}
+
+.header__border {
+  width: 10%;
+  height: 50px;
+}

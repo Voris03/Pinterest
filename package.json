@@ -1,0 +1,24 @@
+{
+  "name": "pinterest",
+  "version": "1.0.0",
+  "description": "source",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voris03/Pinterest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Voris03/Pinterest/issues"
+  },
+  "homepage": "https://github.com/Voris03/Pinterest#readme",
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "sass": "^1.53.0"
+  }
+}
